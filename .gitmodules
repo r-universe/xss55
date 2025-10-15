@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GINAX"]
+	path = GINAX
+	url = https://github.com/xss55/ginax
 [submodule "GLMMselect"]
 	path = GLMMselect
 	url = https://github.com/cran/GLMMselect
