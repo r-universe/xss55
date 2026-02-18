@@ -8,3 +8,6 @@
 [submodule "GLMMselect"]
 	path = GLMMselect
 	url = https://github.com/cran/GLMMselect
+[submodule "VariableSelection"]
+	path = VariableSelection
+	url = https://github.com/xss55/variableselection
